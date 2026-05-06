@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Absurd Ideas #1 — Beyond Resumes"
+date: 2026-05-07
+---
 # Beyond Resumes: A Thought Experiment on AI, Hiring, and Human Potential
 
 > What if companies could understand not just what you have done —
